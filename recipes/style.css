@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+}
+
+.link {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(22, 104, 22);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+div {
+    text-align: center;
+}
+
+#backlink {
+    font-size: 20px;
+}
